@@ -1,0 +1,15 @@
+{
+  "hash": "bf0b6997",
+  "configHash": "7cd27f6f",
+  "lockfileHash": "214bb576",
+  "browserHash": "75ab80a7",
+  "optimized": {
+    "lit": {
+      "src": "../../lit/index.js",
+      "file": "lit.js",
+      "fileHash": "4e93c7bf",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
